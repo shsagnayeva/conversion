@@ -1,0 +1,5 @@
+representation, radix, expected
+-10101101, 2, -173
+"5277", 8, 2751
+"42", 10, 42
+
